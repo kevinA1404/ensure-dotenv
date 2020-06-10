@@ -1,0 +1,23 @@
+{
+  "name": "ensure-dotenv",
+  "version": "1.0.0",
+  "description": "A package to ensure that you have set all your dotenv variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kevinA1404/ensure-dotenv.git"
+  },
+  "keywords": [
+    "dotenv",
+    "ensure"
+  ],
+  "author": "Kevin André Hansen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinA1404/ensure-dotenv/issues"
+  },
+  "homepage": "https://github.com/kevinA1404/ensure-dotenv#readme"
+}
